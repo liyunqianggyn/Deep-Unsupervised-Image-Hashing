@@ -7,8 +7,6 @@ This is the PyTorch implementation of [Deep Unsupervised Image Hashing by Maximi
 <table border=0 >
 	<tbody>
     <tr>
-			<td>  </td>
-			<td align="center"> Full binary network:  combinations/solutions (512/30) </td>
 		</tr>
 		<tr>
 			<td width="19%" align="center"> Proposed Bi-half Layer </td>
