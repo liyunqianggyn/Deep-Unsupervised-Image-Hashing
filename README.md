@@ -7,7 +7,6 @@ This is the PyTorch implementation of [Deep Unsupervised Image Hashing by Maximi
 <table border=0 >
 	<tbody>
     <tr>
-		</tr>
 		<tr>
 			<td width="19%" align="center"> Proposed Bi-half Layer </td>
 			<td width="40%" > <img src="https://raw.githubusercontent.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing-by-Maximizing-Bit-Entropy/master/bi_half layer.png"> </td>
