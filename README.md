@@ -1,1 +1,1 @@
-# Deep-Unsupervised-Image-Hashing-by-Maximizing-Bit-Entropy
+# Deep Unsupervised Image Hashing by Maximizing Bit Entropy
