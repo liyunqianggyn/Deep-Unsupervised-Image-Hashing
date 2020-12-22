@@ -1,6 +1,6 @@
 # Deep Unsupervised Image Hashing
 
-This is the PyTorch implementation of accepted AAAI 2021 paper: [Deep Unsupervised Image Hashing by Maximizing Bit Entropy]()
+This is the PyTorch implementation of accepted AAAI 2021 paper: [Deep Unsupervised Image Hashing by Maximizing Bit Entropy](https://arxiv.org/submit/3501629/view)
 
 
 ## Bi-half layer framework
