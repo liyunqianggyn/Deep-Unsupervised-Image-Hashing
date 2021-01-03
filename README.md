@@ -17,7 +17,8 @@ channel capacity
 </table>
 
 ## 3D Visualization
-This figure visualizes the continuous feature distributions before binarization over different methods by training the network on MNIST with 3 hash bits.
+This figure visualizes the continuous feature distributions before binarization over different methods by training the network on MNIST with 3 hash bits. We observe that the features learned by sign layer are seriously tangled with each other. With binarization, most images will be scattered to same binary vertex and thus some bits have no discriminative information. By adding an entropy regularization term, the feature tanglement can be mitigated, but it is suboptimal solution which
+requires careful hyper-parameter tuning. The proposed bihalf layer can learn evenly distributed features
 
 <table border=0 width="50px" >
 	<tbody> 
