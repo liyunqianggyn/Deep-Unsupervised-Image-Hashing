@@ -36,8 +36,8 @@ Bi-half Net in Pytorch
     │   ├── Flickr_bihalf.py
     │   └── Mscoco_bihalf.py
     └── Video Hashing
-        ├── resnet-18.py
-        └── resnet-34.py
+        ├── Ucf_bihalf.py
+        └── Hmdb_bihalf.py
 ```
 
 ## 3D Visualization
