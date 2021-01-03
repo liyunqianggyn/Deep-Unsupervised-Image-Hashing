@@ -18,24 +18,24 @@ channel capacity
 
 
 ## Datasets on different settings
-
+Experimental results on 5 image datasets
+Flickr25k, Nus-wide, Cifar-10, Mscoco, Mnist and 2 video
+datasets Ucf-101 and Hmdb-51. 
 ```
-Less bits is more in Pytorch
-── archs
-    ├── cifar-10
-    │   ├── Conv2.py
-    │   ├── Conv4.py
-    │   ├── Conv6.py
-    │   ├── Conv8.py
-    │   └── resnet-20.py
-    ├── cifar-100
+Bi-half Net in Pytorch
+── settings
+    ├── AutoEncoder 
+    │   ├── Sign_Layer.py
+    │   ├── SignReg.py
+    │   └── Bihalf_Layer.py
+    ├── Image Hashing
     │   ├── resnet-18.py
     │   ├── resnet-34.py
     │   ├── VGG-16.py
     │   ├── InceptionV3.py
     │   ├── MobileNet.py
     │   └── ShuffleNet.py
-    └── imagenet
+    └── Video Hashing
         ├── resnet-18.py
         └── resnet-34.py
 
