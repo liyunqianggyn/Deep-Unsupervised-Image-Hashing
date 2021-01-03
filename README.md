@@ -16,8 +16,6 @@ channel capacity
 	</tbody>
 </table>
 
-
-
 ## 3D Visualization
 This figure visualizes the continuous feature distributions before binarization over different methods by training the network on MNIST with 3 hash bits.
 
@@ -36,8 +34,6 @@ This figure visualizes the continuous feature distributions before binarization 
 </table>
 
 
-
-
 ## Citation
 
 If you find the code in this repository useful for your research consider citing it.
@@ -50,4 +46,14 @@ If you find the code in this repository useful for your research consider citing
   year={2021}
 }
 ```
+## Contact
+If you have any problem about our code, feel free to contact
+
+ - y.li-19@tudelft.nl
+ - J.C.vanGemert@tudelft.nl
+ 
+ 
+ 
+ 
+
 
