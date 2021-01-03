@@ -38,7 +38,16 @@ This figure visualizes the continuous feature distributions before binarization 
 
 
 
-## Code is coming
-Now I am on holiday, the code will come soon :)
+## Citation
 
+If you find the code in this repository useful for your research consider citing it.
+
+```
+@article{liAAAI2021,
+  title={Deep Unsupervised Image Hashing by Maximizing Bit Entropy},
+  author={Li, Yunqiang and van Gemert, Jan},
+  journal={AAAI},
+  year={2021}
+}
+```
 
