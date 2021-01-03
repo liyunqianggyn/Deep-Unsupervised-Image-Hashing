@@ -21,6 +21,8 @@ channel capacity
 Experimental results on 5 image datasets
 Flickr25k, Nus-wide, Cifar-10, Mscoco, Mnist and 2 video
 datasets Ucf-101 and Hmdb-51. 
+We divided them into tree groups: AutoEncoder on Mnist; Image Hashing on Flickr25k, Nus-wide, Cifar-10, Mscoco; Video Hashing on Ucf-101 and Hmdb-51.
+
 ```
 Bi-half Net in Pytorch
 ── settings
