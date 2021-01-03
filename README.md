@@ -21,9 +21,9 @@ This figure visualizes the continuous feature distributions before binarization 
 
 <table border=0 width="50px" >
 	<tbody> 
-    <tr>		<td width="27%" align="center"> <strong>Sign</strong> </td>
+    <tr>		<td width="27%" align="center"> <strong>Sign Layer</strong> </td>
 			<td width="27%" align="center"> <strong>Sign + Reg</strong> </td>
-			<td width="27%" align="center"> <strong>Bi-half</strong> </td>
+			<td width="27%" align="center"> <strong>Bi-half Layer</strong> </td>
 		</tr>
 <tr>
 			<td width="27%" align="center"> <img src="https://raw.githubusercontent.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing-by-Maximizing-Bit-Entropy/master/AutoEncoder/gif/sign_.gif"> </td>
