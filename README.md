@@ -8,7 +8,7 @@ This is the PyTorch implementation of accepted AAAI 2021 paper: [Deep Unsupervis
 	<tbody>
     <tr>
 		<tr>
-			<td width="19%" align="center"> A simple, parameter-free, bi-half layer to maximize hash
+			<td width="19%" align="center"> A simple, parameter-free, bi-half coding layer to maximize hash
 channel information capacity
   </td>
 			<td width="40%" > <img src="https://raw.githubusercontent.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing-by-Maximizing-Bit-Entropy/master/bi_half layer.png"> </td>
