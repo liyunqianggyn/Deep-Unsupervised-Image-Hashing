@@ -31,8 +31,10 @@ Bi-half Net in Pytorch
     │   ├── SignReg.py
     │   └── Bihalf_Layer.py
     ├── ImageHashing
-    │   ├── Cifar_bihalf.py
-    │   ├── Nus_bihalf.py
+    │   ├── Cifar(I)_bihalf.py
+    │   ├── Cifar(II)_bihalf.py
+    │   ├── Nus(I)_bihalf.py
+    │   ├── Nus(II)_bihalf.py
     │   ├── Flickr_bihalf.py
     │   └── Mscoco_bihalf.py
     └── VideoHashing
