@@ -16,6 +16,30 @@ channel capacity
 	</tbody>
 </table>
 
+
+## Datasets on different settings
+
+```
+Less bits is more in Pytorch
+── archs
+    ├── cifar-10
+    │   ├── Conv2.py
+    │   ├── Conv4.py
+    │   ├── Conv6.py
+    │   ├── Conv8.py
+    │   └── resnet-20.py
+    ├── cifar-100
+    │   ├── resnet-18.py
+    │   ├── resnet-34.py
+    │   ├── VGG-16.py
+    │   ├── InceptionV3.py
+    │   ├── MobileNet.py
+    │   └── ShuffleNet.py
+    └── imagenet
+        ├── resnet-18.py
+        └── resnet-34.py
+
+
 ## 3D Visualization
 This figure visualizes the continuous feature distributions before binarization over different methods by training the network on MNIST with 3 hash bits. We observe that the features learned by sign layer are seriously tangled with each other. By adding an entropy regularization term, the feature tanglement can be mitigated, but it is suboptimal solution which
 requires careful hyper-parameter tuning. The proposed bihalf layer can learn evenly distributed features. 
