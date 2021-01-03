@@ -17,6 +17,40 @@ channel capacity
 </table>
 
 
+
+## Smooth Grad
+Smooth grad is adding some Gaussian noise to the original image and calculating gradients multiple times and averaging the results [8]. There are two examples at the bottom which use _vanilla_ and _guided_ backpropagation to calculate the gradients. Number of images (_n_) to average over is selected as 50. _σ_ is shown at the bottom of the images.
+
+<table border=0 width="50px" >
+	<tbody> 
+    <tr>		<td width="27%" align="center"> </td>
+			<td width="27%" align="center"> <strong>Vanilla Backprop</strong> </td>
+			<td width="27%" align="center"> </td>
+		</tr>
+<tr>
+			<td width="27%" align="center"> <img src="https://raw.githubusercontent.com/utkuozbulak/cnn-gifs/master/vanilla/snake_.gif"> </td>
+			<td width="27%" align="center"> <img src="https://raw.githubusercontent.com/utkuozbulak/cnn-gifs/master/vanilla/dog_.gif"> </td>
+			<td width="27%" align="center"> <img src="https://raw.githubusercontent.com/utkuozbulak/cnn-gifs/master/vanilla/spider_.gif"> </td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table border=0 width="50px" >
+	<tbody> 
+    <tr>		<td width="27%" align="center"> </td>
+			<td width="27%" align="center"> <strong>Guided Backprop</strong> </td>
+			<td width="27%" align="center"> </td>
+		</tr>
+<tr>
+			<td width="27%" align="center"> <img src="https://raw.githubusercontent.com/utkuozbulak/cnn-gifs/master/gbp/snake_.gif"> </td>
+			<td width="27%" align="center"> <img src="https://raw.githubusercontent.com/utkuozbulak/cnn-gifs/master/gbp/dog_.gif"> </td>
+			<td width="27%" align="center"> <img src="https://raw.githubusercontent.com/utkuozbulak/cnn-gifs/master/gbp/spider_.gif"> </td>
+		</tr>
+	</tbody>
+</table>
+
+
 ## Code is coming
 Now I am on holiday, the code will come soon :)
 
