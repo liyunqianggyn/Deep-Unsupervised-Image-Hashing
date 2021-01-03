@@ -18,8 +18,8 @@ channel capacity
 
 
 
-## Smooth Grad
-Smooth grad is adding some Gaussian noise to the original image and calculating gradients multiple times and averaging the results [8]. There are two examples at the bottom which use _vanilla_ and _guided_ backpropagation to calculate the gradients. Number of images (_n_) to average over is selected as 50. _σ_ is shown at the bottom of the images.
+## 3D Visualization
+This figure visualizes the continuous feature distributions before binarization over different methods by training the network on MNIST with 3 hash bits.
 
 <table border=0 width="50px" >
 	<tbody> 
