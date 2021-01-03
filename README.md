@@ -21,7 +21,7 @@ channel capacity
 Experimental results on 5 image datasets
 Flickr25k, Nus-wide, Cifar-10, Mscoco, Mnist and 2 video
 datasets Ucf-101 and Hmdb-51. 
-We divided them into tree groups according to different settings: (i) Train an AutoEncoder on Mnist; (ii) Image Hashing on Flickr25k, Nus-wide, Cifar-10, Mscoco; (iii) Video Hashing on Ucf-101 and Hmdb-51.
+We divided them into tree groups according to different settings: (i) Train an AutoEncoder on Mnist; (ii) Image Hashing on Flickr25k, Nus-wide, Cifar-10, Mscoco using Pre-trained Vgg; (iii) Video Hashing on Ucf-101 and Hmdb-51 using Pre-trained 3D ResNet-34 and ResNet-101.
 
 ```
 Bi-half Net in Pytorch
@@ -31,12 +31,10 @@ Bi-half Net in Pytorch
     │   ├── SignReg.py
     │   └── Bihalf_Layer.py
     ├── Image Hashing
-    │   ├── resnet-18.py
-    │   ├── resnet-34.py
-    │   ├── VGG-16.py
-    │   ├── InceptionV3.py
-    │   ├── MobileNet.py
-    │   └── ShuffleNet.py
+    │   ├── Cifar_bihalf.py
+    │   ├── Nus_bihalf.py
+    │   ├── Flickr_bihalf.py
+    │   └── Mscoco_bihalf.py
     └── Video Hashing
         ├── resnet-18.py
         └── resnet-34.py
