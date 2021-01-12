@@ -2,6 +2,8 @@
 
 This is the PyTorch implementation of accepted AAAI 2021 paper: [Deep Unsupervised Image Hashing by Maximizing Bit Entropy](https://arxiv.org/abs/2012.12334)
 
+Our paper presentation is on [YouTube](https://www.youtube.com/watch?v=riZDqdTrNrg)
+
 
 ## Bi-half layer framework
 <table border=0 >
@@ -78,6 +80,9 @@ If you have any problem about our code, feel free to contact
 
  - y.li-19@tudelft.nl
  - J.C.vanGemert@tudelft.nl
+ 
+ 
+
  
  
  
