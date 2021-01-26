@@ -4,6 +4,7 @@ This is the PyTorch implementation of accepted AAAI 2021 paper: [Deep Unsupervis
 
 Our paper presentation is on [YouTube](https://www.youtube.com/watch?v=riZDqdTrNrg)
 
+Video codes and datasets are coming!
 
 ## Bi-half layer framework
 <table border=0 >
