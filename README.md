@@ -76,7 +76,7 @@ You can download the kinetics pre-trained 3D models: ResNet-34  and ResNet-101 [
 
 
 ## 3D Visualization
-The continuous feature visualization on an AutoEncoder using Mnist.
+The continuous feature visualization on an AutoEncoder using Mnist. We compare 3 different models: sign layer, sign+reg and our bi-half layer.
 
 <table border=0 width="50px" >
 	<tbody> 
