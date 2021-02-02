@@ -27,25 +27,10 @@ According to different settings, we divided them into: i) Train an AutoEncoder o
 
 
 ### Framework
-```
-Bi-half Net in Pytorch
-── settings
-    ├── AutoEncoder 
-    │   ├── Sign.py
-    │   ├── SignReg.py
-    │   └── BiHalf.py
-    ├── ImageHashing
-    │   ├── Cifar10_I.py
-    │   ├── Cifar10_II.py
-    │   ├── Flickr25k.py
-    │   └── Mscoco.py
-    └── VideoHashing
-        └── main.py
-```
-```
-Bi-half Net in Pytorch
 
-── 3 different settings
+```
+── Bi-half Net: 3 different settings
+    │ 
     └── AutoEncoder ── ── ── ── ImageHashing ── ── ── ── VideoHashing      
           ├── Sign.py             ├── Cifar10_I.py          └── main.py
           ├── SignReg.py          ├── Cifar10_II.py
