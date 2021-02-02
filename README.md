@@ -49,7 +49,8 @@ Bi-half Net in Pytorch
         <td >Link</td><td > [here](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing) </td> <td >[here](https://www.cs.toronto.edu/~kriz/cifar.html)</td> <td >0.6755</td>
     </tr>
 </table>
-Mscoco: You can download it [here] (https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing)
+
+Mscoco: You can download it [here](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing)
 
 Fliker25K: 
 
