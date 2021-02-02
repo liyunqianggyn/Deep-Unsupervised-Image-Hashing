@@ -57,7 +57,7 @@ Bi-half Net in Pytorch
 
 ### Pretrained model
 
-You can download the kinetics pre-trained 3D models [here](https://drive.google.com/open?id=1xbYbZ7rpyjftI_KCk6YuL-XrfQDz7Yd4).   
+You can download the kinetics pre-trained 3D models [here](https://github.com/kenshohara/3D-ResNets-PyTorch).   
 
 ------
 
