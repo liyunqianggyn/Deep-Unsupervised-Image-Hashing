@@ -26,7 +26,7 @@ datasets**: Ucf-101 and Hmdb-51.
 According to different settings, we divided them into: i) Train an AutoEncoder on Mnist; ii) Image Hashing on Flickr25k, Nus-wide, Cifar-10, Mscoco using Pre-trained Vgg; iii) Video Hashing on Ucf-101 and Hmdb-51 using Pre-trained 3D models.
 
 
-### Framework
+### Glance
 
 ```
 3 settings ── AutoEncoder ── ── ── ── ImageHashing ── ── ── ── VideoHashing      
