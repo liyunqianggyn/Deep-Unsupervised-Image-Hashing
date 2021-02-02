@@ -41,6 +41,10 @@ Bi-half Net in Pytorch
         └── main.py
 ```
 
+Mscoco: You can download it [here](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing)
+
+Fliker25K: 
+
 ## 3D Visualization
 This figure visualizes the continuous feature distributions before binarization over different methods by training the network on MNIST with 3 hash bits. We observe that the features learned by sign layer are seriously tangled with each other. By adding an entropy regularization term, the feature tanglement can be mitigated, but it is suboptimal solution which
 requires careful hyper-parameter tuning. The proposed bihalf layer can learn evenly distributed features. 
