@@ -44,7 +44,7 @@ Bi-half Net in Pytorch
 ```
 
 
-------
+
 ### Datasets download
 
 |#|Datasets|Download|
@@ -54,10 +54,10 @@ Bi-half Net in Pytorch
 |3|Cifar10|[Link](https://www.cs.toronto.edu/~kriz/cifar.html)|
 
  
-------
+
 ### Pretrained model
 
-
+------
 
 Fliker25K: 
 
