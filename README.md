@@ -13,7 +13,7 @@ Our paper presentation is on [YouTube](https://www.youtube.com/watch?v=riZDqdTrN
 			<td width="19%" align="center"> A simple, parameter-free, bi-half coding layer to maximize hash
 channel capacity
   </td>
-			<td width="40%" > <img src="https://raw.githubusercontent.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing-by-Maximizing-Bit-Entropy/master/AutoEncoder/gif/bi_half layer.png"> </td>
+			<td width="40%" > <img src="https://raw.githubusercontent.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing-by-Maximizing-Bit-Entropy/master/AutoEncoder/gif/bi_half_layer.png"> </td>
 		</tr>
 	</tbody>
 </table>
