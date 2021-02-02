@@ -47,7 +47,7 @@ Bi-half Net in Pytorch
 
 |#|语法|效果|
 |---|----|-----|
-|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")|
+|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[Here](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing "悬停显示")|
 |2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |
 
 
@@ -61,12 +61,6 @@ Bi-half Net in Pytorch
 </table>
 
  
-```
-Datasets | Mscoco |
-
-Link:    |[here](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing)|
-```
-
 
 
 
