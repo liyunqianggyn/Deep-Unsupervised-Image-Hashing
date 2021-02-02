@@ -29,7 +29,7 @@ According to different settings, we divided them into: i) Train an AutoEncoder o
 ### Framework
 
 ```
-Bi-half Net: 3 different settings
+3 different settings
     └── AutoEncoder ── ── ── ── ImageHashing ── ── ── ── VideoHashing      
           ├── Sign.py             ├── Cifar10_I.py          └── main.py
           ├── SignReg.py          ├── Cifar10_II.py
