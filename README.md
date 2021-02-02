@@ -44,6 +44,7 @@ Bi-half Net in Pytorch
 ```
 ```
 Bi-half Net in Pytorch
+|---|----|-----|
 ── 3 different settings
     └── AutoEncoder ── ── ── ── ImageHashing ── ── ── ── VideoHashing      
           ├── Sign.py             ├── Cifar10_I.py          └── main.py
