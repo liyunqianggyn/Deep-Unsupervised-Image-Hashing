@@ -53,6 +53,8 @@ Bi-half Net in Pytorch
 |2|Mscoco|[Link](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing "悬停显示")|
 |3|Cifar10|[Link](https://www.cs.toronto.edu/~kriz/cifar.html)|
 
+* We have converted the videos from avi to jpg.  The original videos can be download: [UCF101](http://crcv.ucf.edu/data/UCF101.php) and [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/).
+
  
 
 ### Pretrained model
