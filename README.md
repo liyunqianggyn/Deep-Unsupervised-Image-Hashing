@@ -53,11 +53,10 @@ Bi-half Net in Pytorch
 |2|Mscoco|[Link](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing "悬停显示")|
 |3|Nuswide|[Link](https://github.com/TreezzZ/DSDH_PyTorch)  |
 |4|Cifar10|[Link](https://www.cs.toronto.edu/~kriz/cifar.html)|
-|---|----|-----|
 |5|Ucf101|[Link](https://www.cs.toronto.edu/~kriz/cifar.html)|
 |6|Hmdb51|[Link](https://www.cs.toronto.edu/~kriz/cifar.html)|
 
-For video datasets, we converted them from avi to jpg. The avi videos can be download: [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) and [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/).
+For video datasets, we converted them from avi to jpg files. The avi videos can be download: [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) and [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/).
 
  
 
