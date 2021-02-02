@@ -4,7 +4,6 @@ This is the PyTorch implementation of accepted AAAI 2021 paper: [Deep Unsupervis
 
 Our paper presentation is on [YouTube](https://www.youtube.com/watch?v=riZDqdTrNrg)
 
-Video codes and datasets are coming!
 
 ## Bi-half layer framework
 <table border=0 >
@@ -34,15 +33,12 @@ Bi-half Net in Pytorch
     │   ├── SignReg.py
     │   └── Bihalf_Layer.py
     ├── ImageHashing
-    │   ├── Cifar(I)_bihalf.py
-    │   ├── Cifar(II)_bihalf.py
-    │   ├── Nus(I)_bihalf.py
-    │   ├── Nus(II)_bihalf.py
-    │   ├── Flickr_bihalf.py
-    │   └── Mscoco_bihalf.py
+    │   ├── Cifar10_I.py
+    │   ├── Cifar10_II.py
+    │   ├── Flickr25k.py
+    │   └── Mscoco.py
     └── VideoHashing
-        ├── Ucf_bihalf.py
-        └── Hmdb_bihalf.py
+        └── main.py
 ```
 
 ## 3D Visualization
