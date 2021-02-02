@@ -41,6 +41,17 @@ Bi-half Net in Pytorch
         └── main.py
 ```
 
+<table>
+    <tr>
+        <td>Algorithms</td><td>dataset</td><td>this impl.</td><td>paper</td>
+    </tr>
+    <tr>
+        <td >DSH</td><td >cifar10-1</td> <td >0.800</td> <td >0.6755</td>
+    </tr>
+    <tr>
+        <td ></td><td >nus_wide_21</td> <td >0.798</td> <td >0.5621</td>
+    </tr>
+</table>
 Mscoco: You can download it [here](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing)
 
 Fliker25K: 
