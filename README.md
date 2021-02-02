@@ -53,11 +53,13 @@ Bi-half Net in Pytorch
  
 ```
 Datasets | Mscoco |
-```
 
 Link:    |[here](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing)|
+```
 
-Mscoco: You can download it 
+
+
+
 
 Fliker25K: 
 
