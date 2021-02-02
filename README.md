@@ -31,9 +31,9 @@ According to different settings, we divided them into: i) Train an AutoEncoder o
 Bi-half Net in Pytorch
 ── settings
     ├── AutoEncoder 
-    │   ├── Sign_Layer.py
+    │   ├── Sign.py
     │   ├── SignReg.py
-    │   └── Bihalf_Layer.py
+    │   └── BiHalf.py
     ├── ImageHashing
     │   ├── Cifar10_I.py
     │   ├── Cifar10_II.py
