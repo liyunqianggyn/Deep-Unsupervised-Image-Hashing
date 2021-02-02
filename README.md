@@ -56,7 +56,7 @@ Bi-half Net in Pytorch
 |5|Ucf101|[Link](https://www.cs.toronto.edu/~kriz/cifar.html)|
 |6|Hmdb51|[Link](https://www.cs.toronto.edu/~kriz/cifar.html)|
 
-For video datasets, we converted them from avi to jpg files. The original avi videos can be download: [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) and [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/).
+For video datasets, we converted them from avi to jpg files. The original avi videos can be download: [Ucf101](https://www.crcv.ucf.edu/data/UCF101.php) and [Hmdb51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/).
 
 
 ### Implementation Details for Video Setup
