@@ -45,10 +45,10 @@ Bi-half Net in Pytorch
 ------
 ### Datasets download
 
-|#|语法|效果|
+|#|Datasets|Download|
 |---|----|-----|
-|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[Here](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing "悬停显示")|
-|2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |
+|1|Mscoco|[Here](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing "悬停显示")|
+|2|Cifar10|[Here](https://www.cs.toronto.edu/~kriz/cifar.html)|
 
 
 <table>
