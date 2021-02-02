@@ -43,13 +43,10 @@ Bi-half Net in Pytorch
 
 <table>
     <tr>
-        <td>Algorithms</td><td>dataset</td><td>this impl.</td><td>paper</td>
+        <td>Datasets</td><td>Mscoco</td><td>Cifar10</td><td>paper</td>
     </tr>
     <tr>
-        <td >DSH</td><td >cifar10-1</td> <td >0.800</td> <td >0.6755</td>
-    </tr>
-    <tr>
-        <td ></td><td >nus_wide_21</td> <td >0.798</td> <td >0.5621</td>
+        <td >Link</td><td >[here](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing)</td> <td >[here](https://www.cs.toronto.edu/~kriz/cifar.html)</td> <td >0.6755</td>
     </tr>
 </table>
 Mscoco: You can download it [here](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing)
