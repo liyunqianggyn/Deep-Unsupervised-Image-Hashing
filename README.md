@@ -66,7 +66,7 @@ You can download the kinetics pre-trained 3D models: ResNet-34  and ResNet-101 [
 ### Implementation Details for Video Setup
 For the video datasets ucf101 and hmdb51, to generate a training sample, we first select a video frame by uniform sampling, and then generate a 16-frame clip around the
 frame. If the selected position has less than 16 frames before the video ends, then we repeat the procedure until it fits.
-We spatially resize the cropped sample to 112 x 112 pixels, resulting in one training sample with size of 3 channels x 16 frames x 112 pixels x 112 pixels. In the \emph{retrieval}, we adopt sliding window to generate  clips as input, \ie each video is split into non-overlapping 16-frame clips. Each video has an average 92 non-overlapped clips.
+We spatially resize the cropped sample to 112 x 112 pixels, resulting in one training sample with size of 3 channels x 16 frames x 112 pixels x 112 pixels. In the \emph{retrieval}, we adopt sliding window to generate  clips as input, i.e, each video is split into non-overlapping 16-frame clips. Each video has an average 92 non-overlapped clips.
 Take the UCF-101 for example, we obtain a query set of 3,783 videos containing  348,047 non-overlapped clips, and the retrieval set of 9,537 videos containing 891,961 clips.
 We then input the non-overlapped clips to extract binary descriptors for hashing.
 
