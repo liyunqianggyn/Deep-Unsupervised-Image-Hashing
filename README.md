@@ -42,7 +42,15 @@ Bi-half Net in Pytorch
     └── VideoHashing
         └── main.py
 ```
-
+```
+Bi-half Net in Pytorch
+── 3 different settings
+    └── AutoEncoder ── ── ── ── ImageHashing ── ── ── ── VideoHashing      
+          ├── Sign.py             ├── Cifar10_I.py          └── main.py
+          ├── SignReg.py          ├── Cifar10_II.py
+          └── BiHalf.py           ├── Flickr25k.py
+    				  └── Mscoco.py
+```
 
 
 ### Datasets download
