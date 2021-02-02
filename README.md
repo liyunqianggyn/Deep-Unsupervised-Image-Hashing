@@ -47,19 +47,9 @@ Bi-half Net in Pytorch
 
 |#|Datasets|Download|
 |---|----|-----|
-|1|Flick25k|[link](https://press.liacs.nl/mirflickr/mirdownload.html)
-|2|Mscoco|[link](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing "悬停显示")|
-|3|Cifar10|[link](https://www.cs.toronto.edu/~kriz/cifar.html)|
-
-
-<table>
-    <tr>
-        <td>Datasets</td><td>Mscoco</td><td>Cifar10</td><td>paper</td>
-    </tr>
-    <tr>
-        <td >Link</td><td > [here](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing) </td> <td >[here](https://www.cs.toronto.edu/~kriz/cifar.html)</td> <td >0.6755</td>
-    </tr>
-</table>
+|1|Flick25k|[Link](https://press.liacs.nl/mirflickr/mirdownload.html)
+|2|Mscoco|[Link](https://drive.google.com/file/d/0B7IzDz-4yH_HN0Y0SS00eERSUjQ/view?usp=sharing "悬停显示")|
+|3|Cifar10|[Link](https://www.cs.toronto.edu/~kriz/cifar.html)|
 
  
 
