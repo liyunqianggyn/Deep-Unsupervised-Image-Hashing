@@ -41,6 +41,16 @@ Bi-half Net in Pytorch
         └── main.py
 ```
 
+
+------
+### Datasets download
+
+|#|语法|效果|
+|---|----|-----|
+|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")|
+|2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |
+
+
 <table>
     <tr>
         <td>Datasets</td><td>Mscoco</td><td>Cifar10</td><td>paper</td>
