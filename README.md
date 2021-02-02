@@ -47,7 +47,7 @@ According to different settings, we divided them into: i) Train an AutoEncoder o
 |4|Cifar10|[Link](https://www.cs.toronto.edu/~kriz/cifar.html)|
 |5|Mnist|[Link](http://yann.lecun.com/exdb/mnist/)|
 |6|Ucf101|[Link](https://surfdrive.surf.nl/files/index.php/s/dnYpOzKSmZFxvtX)|
-|7|Hmdb51|[Link](https://www.cs.toronto.edu/~kriz/cifar.html)|
+|7|Hmdb51|[Link](https://surfdrive.surf.nl/files/index.php/s/q8Oqu4orntKH79p)|
 
 For video datasets, we converted them from avi to jpg files. The original avi videos can be download: [Ucf101](https://www.crcv.ucf.edu/data/UCF101.php) and [Hmdb51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/).
 
