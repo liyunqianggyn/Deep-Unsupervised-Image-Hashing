@@ -57,9 +57,11 @@ Bi-half Net in Pytorch
 
 ### Pretrained model
 
+You can download the kinetics pre-trained 3D models [here](https://drive.google.com/open?id=1xbYbZ7rpyjftI_KCk6YuL-XrfQDz7Yd4).   
+
 ------
 
-Fliker25K: 
+
 
 ## 3D Visualization
 This figure visualizes the continuous feature distributions before binarization over different methods by training the network on MNIST with 3 hash bits. We observe that the features learned by sign layer are seriously tangled with each other. By adding an entropy regularization term, the feature tanglement can be mitigated, but it is suboptimal solution which
