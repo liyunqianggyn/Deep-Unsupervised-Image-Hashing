@@ -29,13 +29,11 @@ According to different settings, we divided them into: i) Train an AutoEncoder o
 ### Framework
 
 ```
-3 different settings
-
-     └── AutoEncoder ── ── ── ── ImageHashing ── ── ── ── VideoHashing      
-          ├── Sign.py             ├── Cifar10_I.py          └── main.py
-          ├── SignReg.py          ├── Cifar10_II.py
-          └── BiHalf.py           ├── Flickr25k.py
-    				  └── Mscoco.py
+3 settings ── AutoEncoder ── ── ── ── ImageHashing ── ── ── ── VideoHashing      
+               ├── Sign.py             ├── Cifar10_I.py          └── main.py
+               ├── SignReg.py          ├── Cifar10_II.py
+               └── BiHalf.py           ├── Flickr25k.py
+    	     			       └── Mscoco.py
 ```
 
 
