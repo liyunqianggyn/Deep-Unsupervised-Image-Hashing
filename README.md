@@ -61,7 +61,7 @@ We then input the non-overlapped clips to extract binary descriptors for hashing
 
 
 ### Pretrained model
-You can download the kinetics pre-trained 3D models: ResNet-34  and ResNet-101 [here](https://github.com/kenshohara/3D-ResNets-PyTorch).   
+You can download kinetics pre-trained 3D models: ResNet-34  and ResNet-101 [here](https://github.com/kenshohara/3D-ResNets-PyTorch).   
 
 ------
 
