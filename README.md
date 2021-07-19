@@ -4,8 +4,8 @@ This is the PyTorch implementation of accepted AAAI 2021 paper: [Deep Unsupervis
 
 <!-- Our paper presentation is on [YouTube](https://www.youtube.com/watch?v=riZDqdTrNrg) -->
 
-Meantime, a re-implemented version of our work: [Training code](https://github.com/swuxyj/DeepHash-pytorch)
-
+<!-- Meantime, a re-implemented version of our work: [Training code](https://github.com/swuxyj/DeepHash-pytorch)
+ -->
 
 ## Proposed Bi-half layer
 <table border=0 >
