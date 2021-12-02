@@ -102,7 +102,8 @@ If you find the code in this repository useful for your research consider citing
 ## Contact
 If you have any problem about our code, feel free to contact
 
- - y.li-19@tudelft.nl
+ - Y.Li-19@tudelft.nl
+ - S.L.Pintea@tudelft.nl
  - J.C.vanGemert@tudelft.nl
  
  
